@@ -1,0 +1,2 @@
+Silahkan kalian unduh asset yang akan di gunakan pada dashboard 
+Silahkan kalian buat folder baru bernama assets didalam root folder project kita/ sejajar dengan file nuxt.config.js, dan letakkan folder css dan js kedalam folder assets yang baru saja kita buat
